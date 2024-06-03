@@ -12,8 +12,8 @@ Thereby, there are 3 launch files, namely rviz.launch, spawn.launch, and control
  
    ![Screenshot from 2024-06-03 10-00-40](https://github.com/AjayAdit/ajay_adit_ws/assets/62584240/cab2b9b8-0723-4260-abbb-c4329fc9bd1e)
 
-3. Control.launch: This launch file is the master launch file of the project, encomposing all the functionalities in a single easy-to-use launch file. A few key features added to this launch file are that the robot is spawned in a custom launch file with a variety of objects, and this is the launch file that enables us to carry out teleoperation.To ensure ease of use, this launch file has the teleop node automatically created using a special module named  ###subprocess.Popen.
-   ###ScreenShot:
+3. Control.launch: This launch file is the master launch file of the project, encomposing all the functionalities in a single easy-to-use launch file. A few key features added to this launch file are that the robot is spawned in a custom launch file with a variety of objects, and this is the launch file that enables us to carry out teleoperation.To ensure ease of use, this launch file has the teleop node automatically created using a special module named  ### subprocess.Popen.
+   ### ScreenShot:
 
    ![Screenshot from 2024-06-03 10-13-04](https://github.com/AjayAdit/ajay_adit_ws/assets/62584240/38a72351-7d86-4e1c-b5e3-10ba15c0cf32)
 
