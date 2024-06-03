@@ -23,3 +23,14 @@ Thereby, there are 3 launch files, namely rviz.launch, spawn.launch, and control
 
    
   [Screencast from 06-03-2024 10:16:59 AM.webm](https://github.com/AjayAdit/ajay_adit_ws/assets/62584240/265d9e3e-8677-4739-b0cb-222f53348a76)
+
+## How to test my packages:
+1. In the home directory clone this repo using git clone. (The repo is itself a workspace so source it in bashrc)
+2. As mentioned above all functionality of the packages can be acessed by 3 launch files and the ros2 command to run them are given below.
+      
+          (((ros2 launch bot_description rviz.launch)))
+
+          (((ros2 launch bot_description spawn.launch)))
+
+          (((ros2 launch bot_description control.launch)))
+             
