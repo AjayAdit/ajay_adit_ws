@@ -19,7 +19,7 @@ Thereby, there are 3 launch files, namely rviz.launch, spawn.launch, and control
 
    ![Screenshot from 2024-06-03 10-15-17](https://github.com/AjayAdit/ajay_adit_ws/assets/62584240/391d7be4-850d-4ae3-9ea6-ca08046147ff)
 
-   Teleopeartion of the bot in a custom Gazebo world with camera and lidar pluins enabled (Gif):
+   Teleoperation of the bot in a custom Gazebo world with camera and lidar plugins enabled (Gif):
 
    
   [Screencast from 06-03-2024 10:16:59 AM.webm](https://github.com/AjayAdit/ajay_adit_ws/assets/62584240/265d9e3e-8677-4739-b0cb-222f53348a76)
